@@ -1,0 +1,43 @@
+.port{
+    font-family: "Noto Sans", sans-serif;
+    width:500px;
+
+}
+body{
+    padding: 12px 20px;
+    height: 60px;
+    background:#FFFFFF;
+    border: 1px solid  #f1f2f4;
+    align-items:center;
+    justify-content:center;
+    background-image:32px;
+    border:#f1f2f4;
+}
+.port h1{
+    color: #121416;
+    font-size:22px;
+    
+    
+    
+}
+
+.port p{
+    color:#6a7281;
+}
+button{
+    height:40px;
+    padding:16px 20px;
+    background:#b2c5e5;
+    color:#121416;
+    border-radius:12px;
+    font-weight:700px;
+    font-size:16px;
+
+
+}
+header{
+    height:60px;
+    background:#FFFFFF;
+    border-radius: 1px solid #f1f2f4;
+    padding: 12px 40px;
+}
